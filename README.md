@@ -1,4 +1,4 @@
-# ⚡ hey-cicd — DevSecOps Dashboard
+# cicd — DevSecOps Dashboard
 
 ## 📁 Project Structure
 
@@ -46,8 +46,8 @@ hey-cicd/
 ### Step 1 — Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/hey-cicd.git
-cd hey-cicd
+git clone https://github.com/sergiocipher/DevSecOps_Pipeline.git
+cd DevSecOps_Pipeline
 ```
 
 ### Step 2 — Create a virtual environment
